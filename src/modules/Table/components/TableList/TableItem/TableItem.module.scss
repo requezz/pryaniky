@@ -1,0 +1,26 @@
+.TableItem {
+  position: relative;
+}
+
+.btnDelete {
+  top: 10px;
+  right: 20px;
+  background-color: red !important;
+  position: absolute;
+}
+
+.deleteIcon,
+.editIcon {
+  font-size: 18px !important;
+  color: #fff;
+}
+
+.btnEdit {
+  background-color: green !important;
+  width: 65px;
+  height: 30px;
+  border-radius: 4px;
+  position: absolute;
+  top: -20px;
+  left: 50px;
+}
